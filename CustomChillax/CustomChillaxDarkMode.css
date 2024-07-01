@@ -3212,7 +3212,7 @@ html .channelTabs-newTab {
 }
 
 .typing_d7ebeb strong:last-child::after {
-    content: 'is smashing some buttons';
+    content: 'is typing D:';
     color: rgba(255, 255, 255, 0.8);
     font-weight: 400;
     margin-top: -5px;
@@ -3220,7 +3220,7 @@ html .channelTabs-newTab {
 }
 
 .typing_d7ebeb strong:nth-last-child()::after {
-    content: 'are smashing some buttons';
+    content: 'are typing D:';
     color: rgba(255, 255, 255, 0.8);
     font-weight: 400;
     margin-top: -5px;
